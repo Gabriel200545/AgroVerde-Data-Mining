@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgroVerde - Data Mining
 
 Sistema integral de minería de datos, ingeniería de características, análisis de KPIs y modelado predictivo para la optimización de procesos agrícolas en **AgroVerde**.
@@ -80,3 +81,7 @@ agroverde-data-mining/
   ```bash
   jupyter lab
   ```
+=======
+# AgroVerde-Data-Mining
+Proyecto AgroVerde — Data Mining 2026
+>>>>>>> 6e0d7ce6d2f12cb79521bf27f8ebcf77d65956a2
